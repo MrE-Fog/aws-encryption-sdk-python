@@ -1,4 +1,4 @@
-bandit==1.7.4
+bandit==1.7.5
 black==22.3.0
 doc8==0.10.1
 flake8==6.1.0
